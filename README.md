@@ -21,7 +21,7 @@ KhushiERC20 is an ERC20 token implementation using the OpenZeppelin library. Thi
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/KhushiERC20.git
+   git clone https://github.com/Khushi005/ETHintermediate3/tree/main
    ```
 
 2. Install the necessary dependencies:
